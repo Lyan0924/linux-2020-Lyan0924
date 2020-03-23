@@ -32,7 +32,9 @@
     `psftp> put C:\Users\dell\AppData\Local\Temp\ubuntu-16.04.1-server-amd64.iso`
 <img src="image\psftp.png">
 ---
+
 ## 实验过程
+
 + #### 在当前用户目录下创建一个用于挂载iso镜像文件的目录  
     `mkdir loopdir`
 
