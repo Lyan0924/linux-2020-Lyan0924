@@ -20,12 +20,12 @@ From GUI to CLI
 
 + 录制视频   
 `asciinema rec -t title`  
-<img src="image\20200401201757.png"  alt="没什么意义但为了丰富实验报告内容还是象征性地贴一下的实验图片">
+<img src="image\20200401201757.PNG"  alt="没什么意义但为了丰富实验报告内容还是象征性地贴一下的实验图片">
 
 
 + 结束录制，上传视频   
 上传视频：按下enter键或使用upload语句
-<img src="image\20200401202103.png">
+<img src="image\20200401202103.PNG">
 
 + [vimtutor操作全程录像](https://asciinema.org/a/Ldm5PJhr7L5AzXK2YlfnKDMxV)  
 视频说明：几乎每一步都按提示做了一遍，所以说好的25-30minutes我捣鼓了一个小时...然后应该是5.3节保存文章部分内容的时候没有输入开头和结束行号，导致后来提取合并文件的时候后面所有部分都复制了一遍，所以结尾快退出的时候又回到了5.3节，后来去查了一遍教程才明白。
