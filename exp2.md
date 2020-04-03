@@ -20,7 +20,7 @@ From GUI to CLI
 
 + 录制视频   
 `asciinema rec -t title`  
-![](https://github.com/CUCCS/linux-2020-Lyan0924/blob/0x02/image/20200401201757.png "没什么重要意义但为了丰富实验报告内容还是象征性地贴一下的实验图片")
+![没什么重要意义但为了丰富实验报告内容还是象征性地贴一下的实验图片](https://github.com/CUCCS/linux-2020-Lyan0924/blob/0x02/image/20200401201757.png)
 
 + 结束录制，上传视频   
 上传视频：按下enter键或使用upload语句
